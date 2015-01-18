@@ -1,2 +1,2 @@
 # angular-texttailor
-QAD texttailor angular directive
+QAD [texttailor](http://jpntex.com/texttailor/) angular directive

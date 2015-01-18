@@ -1,0 +1,7 @@
+{
+  "name": "angular-texttailor",
+  "version": "0.1.0",
+  "description": "Angular directive for the jQuery TextTailor plugin",
+  "main": "angular-texttailor.js",
+  "license": "MIT"
+}
