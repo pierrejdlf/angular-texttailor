@@ -14,7 +14,7 @@ angular.module('angular-texttailor', [])
       link: function(scope, element, attr) {
         var container = element,
             options = {
-                resizable: attr.ttResizable || true,
+                resizable: attr.ttResizable || false,
                 ellipsis: attr.ttEllipsis || false,
                 center: attr.ttCenter || false,
             };
